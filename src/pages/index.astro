@@ -1,0 +1,53 @@
+---
+import { Container, FeatureCard } from '@components/odyssey-theme';
+
+import Layout from '../layouts/Page.astro';
+import HomeHeroSection from '../components/sections/heros/HomeHeroSection.astro';
+---
+
+<Layout>
+	<HomeHeroSection />
+
+	<Container>
+		<section class="feature-card__section">
+			</p>
+			<div class="feature-card__grid">
+				
+	
+
+						<h2>more Blog </h2>
+						<p>
+							
+						</p>
+
+							<FeatureCard href="/landing-pages/landing-1" title="尼古丁：一把双刃剑" imgSrc="/assets/images/home/screenshots/landing-1">
+							</FeatureCard>
+
+
+
+
+
+				<FeatureCard href="/company/about" title="python 数据分析" imgSrc="/assets/images/home/screenshots/about">
+	
+
+			</div>
+		</section>
+	</Container>
+
+</Layout>
+
+<style>
+	.feature-card__section {
+		margin: var(--section-margin) auto;
+	}
+	.feature-card__grid {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: var(--theme-grid-gap);
+	}
+	@media (max-width: 768px) {
+		.feature-card__grid {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>
