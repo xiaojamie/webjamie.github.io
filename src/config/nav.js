@@ -1,20 +1,20 @@
 export const nav = [
 	{
 		title: 'Home',
-		slug: '/',
+		slug: '/webjamie.github.io/',
 	},
 	{
 		title: 'Blog',
-		slug: '/blog',
+		slug: '/webjamie.github.io/blog',
 	},
 	{
 		title: 'ceramic',
-		slug: '/sell',
+		slug: '/webjamie.github.io/sell',
 	},
 
 	{
 		title: 'About',
-		slug: '/company/about',
+		slug: '/webjamie.github.io/company/about',
 	},
 	
 ];
