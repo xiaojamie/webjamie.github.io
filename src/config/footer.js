@@ -27,11 +27,11 @@ export const footerLists = [
 		items: [
 			{
 				title: '尼古丁：一把双刃剑',
-				slug: '/blog/posts/consider-hybrid-work',
+				slug: '/webjamie.github.io/blog/posts/consider-hybrid-work',
 			},
 			{
 				title: '使用Python进行特征选择',
-				slug: '/blog/posts/remote-work-mental-health%20copy',
+				slug: '/webjamie.github.io/blog/posts/remote-work-mental-health%20copy',
 			},
       // {
 			// 	title: 'Landing Page 3',
@@ -49,11 +49,11 @@ export const footerLists = [
 		items: [
 			{
 				title: '小型陶器合集',
-				slug: '/sell/posts/consider-hybrid-work%20copy',
+				slug: '/webjamie.github.io/sell/posts/consider-hybrid-work%20copy',
 			},
 			{
 				title: '中形陶器合集',
-				slug: '/sell/posts/consider-hybrid-work',
+				slug: '/webjamie.github.io/sell/posts/consider-hybrid-work',
 			},
       // {
 			// 	title: 'Landing Page 3',
@@ -72,15 +72,15 @@ export const footerLists = [
 		items: [
 			{
 				title: 'About',
-				slug: '/company/about',
+				slug: '/webjamie.github.io/company/about',
 			},
 			{
 				title: 'Blog',
-				slug: '/blog',
+				slug: '/webjamie.github.io/blog',
 			},
 			{
 				title: 'Contact',
-				slug: '/company/contact',
+				slug: '/webjamie.github.io/company/contact',
 			},
 		],
 	},
