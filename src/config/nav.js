@@ -8,8 +8,13 @@ export const nav = [
 		slug: '/webjamie.github.io/blog',
 	},
 	{
-		title: 'ceramic',
+		title: 'Ceramic',
 		slug: '/webjamie.github.io/sell',
+	},
+
+	{
+		title: 'Game Center',
+		slug: '/webjamie.github.io/game center',
 	},
 
 	{
