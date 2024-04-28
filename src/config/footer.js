@@ -44,8 +44,10 @@ export const footerLists = [
 
 
 
+
+
 	{
-		title: 'ceramic',
+		title: 'Ceramic',
 		items: [
 			{
 				title: '小型陶器合集',
@@ -59,6 +61,32 @@ export const footerLists = [
 			// 	title: 'Landing Page 3',
 			// 	slug: '/landing-pages/landing-3',
 			// },
+		],
+	},	
+
+
+
+
+	
+
+
+
+
+	{
+		title: 'Game Center',
+		items: [
+			{
+				title: '3D City',
+				slug: '/webjamie.github.io/game%20center/posts/odyssey-theme-officially-released/',
+			},
+			{
+				title: 'MaZe3D',
+				slug: '/webjamie.github.io/game%20center/posts/3DM/',
+			},
+      {
+		 		title: 'TriggerRally',
+			 	slug: '/webjamie.github.io/game%20center/posts/trrplay/',
+			 },
 		],
 	},
 
@@ -74,6 +102,7 @@ export const footerLists = [
 				title: 'About',
 				slug: '/webjamie.github.io/company/about',
 			},
+			
 			{
 				title: 'Blog',
 				slug: '/webjamie.github.io/blog',
@@ -82,6 +111,16 @@ export const footerLists = [
 				title: 'Contact',
 				slug: '/webjamie.github.io/company/contact',
 			},
+			{
+				title: 'Ceramic',
+				slug: '/webjamie.github.io/sell/',
+			},
+			{
+				title: 'Game Center',
+				slug: '/webjamie.github.io/game%20center/',
+			},
+
+			
 		],
 	},
 
