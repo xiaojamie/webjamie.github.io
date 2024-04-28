@@ -39,13 +39,6 @@ export const footerLists = [
 			// },
 		],
 	},
-
-
-
-
-
-
-
 	{
 		title: 'Ceramic',
 		items: [
@@ -63,15 +56,6 @@ export const footerLists = [
 			// },
 		],
 	},	
-
-
-
-
-	
-
-
-
-
 	{
 		title: 'Game Center',
 		items: [
@@ -89,12 +73,15 @@ export const footerLists = [
 			 },
 		],
 	},
+		title: ' ',
+		items: [
+			{
+				title: ' ',
+				slug: '',
+			},
 
-
-
-
-
-
+		],
+	},
 	{
 		title: 'ME',
 		items: [
