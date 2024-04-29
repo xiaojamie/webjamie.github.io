@@ -26,7 +26,7 @@ export const footerLists = [
 		title: 'Blog',
 		items: [
 			{
-				title: '尼古丁：一把双刃剑',
+				title: ' Exploring the World of Data: Python Data Analysis',
 				slug: '/webjamie.github.io/blog/posts/consider-hybrid-work',
 			},
 			{
