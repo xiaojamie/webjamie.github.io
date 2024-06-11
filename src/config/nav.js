@@ -13,8 +13,8 @@ export const nav = [
 	},
 
 	{
-		title: 'Game Center',
-		slug: '/webjamie.github.io/game center',
+		title: 'Resource Center',
+		slug: '',
 	},
 
 	{
