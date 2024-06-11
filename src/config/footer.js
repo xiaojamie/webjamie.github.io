@@ -57,19 +57,19 @@ export const footerLists = [
 		],
 	},	
 	{
-		title: 'Game Center',
+		title: 'Resource Center',
 		items: [
 			{
-				title: '3D City',
-				slug: '/webjamie.github.io/game%20center/posts/odyssey-theme-officially-released/',
+				title: 'Resource 1',
+				slug: '',
 			},
 			{
-				title: 'MaZe3D',
-				slug: '/webjamie.github.io/game%20center/posts/3DM/',
+				title: 'Resource 2',
+				slug: '',
 			},
       {
-		 		title: 'TriggerRally',
-			 	slug: '/webjamie.github.io/game%20center/posts/trrplay/',
+		 		title: 'Resource 3',
+			 	slug: '',
 			 },
 		],
 	},
@@ -104,8 +104,8 @@ export const footerLists = [
 				slug: '/webjamie.github.io/sell/',
 			},
 			{
-				title: 'Game Center',
-				slug: '/webjamie.github.io/game%20center/',
+				title: 'Resource Center',
+				slug: '',
 			},
 
 			
