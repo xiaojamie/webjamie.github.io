@@ -29,10 +29,10 @@ export const footerLists = [
 				title: ' Exploring the World of Data: Python Data Analysis',
 				slug: '/webjamie.github.io/blog/posts/consider-hybrid-work',
 			},
-			{
-				title: '使用Python进行特征选择',
-				slug: '/webjamie.github.io/blog/posts/remote-work-mental-health%20copy',
-			},
+			//{
+				//title: '使用Python进行特征选择',
+				//slug: '/webjamie.github.io/blog/posts/remote-work-mental-health%20copy',
+			//},
       // {
 			// 	title: 'Landing Page 3',
 			// 	slug: '/landing-pages/landing-3',
@@ -56,23 +56,6 @@ export const footerLists = [
 			// },
 		],
 	},	
-	{
-		title: 'Resource Center',
-		items: [
-			{
-				title: 'Resource 1',
-				slug: '',
-			},
-			{
-				title: 'Resource 2',
-				slug: '',
-			},
-      {
-		 		title: 'Resource 3',
-			 	slug: '',
-			 },
-		],
-	},
 	{
 		title: ' ',
 		items: [
@@ -103,12 +86,6 @@ export const footerLists = [
 				title: 'Ceramic',
 				slug: '/webjamie.github.io/sell/',
 			},
-			{
-				title: 'Resource Center',
-				slug: '',
-			},
-
-			
 		],
 	},
 
