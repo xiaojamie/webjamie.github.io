@@ -13,11 +13,6 @@ export const nav = [
 	},
 
 	{
-		title: 'Resource Center',
-		slug: '',
-	},
-
-	{
 		title: 'About',
 		slug: '/webjamie.github.io/company/about',
 	},
