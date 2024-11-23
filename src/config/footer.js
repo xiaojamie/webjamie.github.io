@@ -57,16 +57,6 @@ export const footerLists = [
 		],
 	},	
 	{
-		title: ' ',
-		items: [
-			{
-				title: ' ',
-				slug: '',
-			},
-
-		],
-	},
-	{
 		title: 'ME',
 		items: [
 			{
